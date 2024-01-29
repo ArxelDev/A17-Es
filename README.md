@@ -1,15 +1,4 @@
-<h1 align="center"> ✧ A17 ✧ </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=Welcome+to+A17+MD+!;Explore+the+world+of+features!" />
-</p>
-
-<p align="center">
-   <a href="https://github.com/Kai0071">
-    <img src="https://graph.org/file/14d7cc038fa3192a8fe43.jpg" width="249">
-</p>
-
-<h1 align="center"> A17 BoT (Beta)</h1>
+<h1 align="center"> ✧ A17 ✧ BoT (Beta)</h1>
 
 <p align="center"> 
   Hi there, I'm "A17," a versatile WhatsApp bot created and reprogrammed by Kai to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
@@ -41,14 +30,6 @@
   </a>
 </p>
 
-<br>
-<br>
-
-<h1 align="center"> ✨  Now Playing  ✨ </h1>
-
-<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
-<br>
-<br>
 <h2 align="center"> 🔰 Tap Here To Fork 🔰 </h2>
 
 <h2 align="center">
@@ -56,9 +37,6 @@
     <img src="https://img.shields.io/badge/FORK A17 MD-h?color=white&style=for-the-badge&logo=stackshare" />
   </a>
 </h2>
-
-<br>
-<br>
 
 <h2 align="center"> 🍁  Run Repl for Multi Session QR  🍁 </h2>
 
